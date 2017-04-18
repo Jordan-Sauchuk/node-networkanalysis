@@ -15,5 +15,3 @@ pcap_session.on('packet', function (raw_packet) {
 });
 
 
-
-// If we integrate and build with node in the future we can easily route info to web browsers, databases and other neccessities 
